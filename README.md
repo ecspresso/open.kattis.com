@@ -7,3 +7,4 @@
 | Stuck In A Time Loop | https://open.kattis.com/problems/timeloop  | 1.2 |
 | Take Two Stones      | https://open.kattis.com/problems/twostones | 1.2 |
 | Trik                 | https://open.kattis.com/problems/trik      | 1.2 |
+| Sibice               | https://open.kattis.com/problems/sibice    | 1.2 |
