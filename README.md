@@ -26,4 +26,4 @@
 | [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.3        | [Spavanac.java](../master/1.3/Spavanac.java)                        |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)               | 1.3        | [SpeedLimit.java](../master/1.3/SpeedLimit.java)                    |
 | ---                                                                      | ---        | ---                                                                 |
-| [Aaah!](https://open.kattis.com/problems/aaah)                           | 1.7        | [aaah.java](../master/1.3/Aaah.java)                                |
+| [Aaah!](https://open.kattis.com/problems/aaah)                           | 1.7        | [Aaah.java](../master/1.3/Aaah.java)                                |
