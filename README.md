@@ -17,7 +17,9 @@
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)        | 1.2        | [StuckInATimeLoop.java](../blob/master/1.2/StuckInATimeLoop.java)   |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)            | 1.2        | [TakeTwoStones.java](../blob/master/1.2/TakeTwoStones.java)         |
 | [Trik](https://open.kattis.com/problems/trik)                            | 1.2        | [Trik.java](../blob/master/1.2/Trik.java)                           |
----
+
+| Problem                                                                  | Difficulty | File                                                                |
+| ---                                                                      | ---        | ---                                                                 |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)            | 1.3        | [GrassSeedInc.java](../blob/master/1.3/GrassSeedInc.java)           |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.3        | [NoDuplicates.java](../blob/master/1.3/NoDuplicates.java)           |
 | [No Duplicates](https://open.kattis.com/problems/nodup)                  | 1.3        | [OddManOut.java](../blob/master/1.3/OddManOut.java)                 |
@@ -25,5 +27,5 @@
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders)           | 1.3        | [SolvingForCarrots.java](../blob/master/1.3/SolvingForCarrots.java) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.3        | [Spavanac.java](../blob/master/1.3/Spavanac.java)                   |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)               | 1.3        | [SpeedLimit.java](../blob/master/1.3/SpeedLimit.java)               |
----
+| ---                                                                      | ---        | ---                                                                 |
 | [Aaah!](https://open.kattis.com/problems/aaah)                           | 1.7        | [aaah.java](../blob/master/1.3/aaah.java)                           |
