@@ -14,8 +14,7 @@
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/QuadrantSelection/QuadrantSelection.java) |
 | [R2](https://open.kattis.com/problems/r2)                                | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/R2/R2.java)                               |
 | [Sibice](https://open.kattis.com/problems/sibice)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Sibice/Sibice.java)                       |
-| [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/SolvingforCarrots/Spavanac.java)          |
-| [Spavanac](https://open.kattis.com/problems/spavanac)                    | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Spavanac/Spavanac.java)                   |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/SolvingforCarrots/SolvingForCarrots.java)          |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/StuckInATimeLoop/StuckInATimeLoop.java)   |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)            | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/TakeTwoStones/TakeTwoStones.java)         |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Tarifa/Tarifa.java)                       |
@@ -24,10 +23,11 @@
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)            | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/GrassSeedInc/GrassSeedInc.java)           |
 | [Ladder](https://open.kattis.com/problems/ladder)                        | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/Ladder/Ladder.java)                       |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)               | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/NastyHacks/NastyHacks.java)               |
-| [No Duplicates](https://open.kattis.com/problems/nodup)                  | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/NoDuplicates/OddManOut.java)              |
+| [No Duplicates](https://open.kattis.com/problems/nodup)                  | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/NoDuplicates/NoDuplicates.java)              |
 | [Number Fun](https://open.kattis.com/problems/numberfun)                 | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/NumberFun/NumberFun.java)                 |
-| [Odd Man Out](https://open.kattis.com/problems/oddmanout)                | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/OddManOut/SevenWonders.java)              |
-| [Seven Wonders](https://open.kattis.com/problems/sevenwonders)           | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/SevenWonders/SolvingForCarrots.java)      |
+| [Odd Man Out](https://open.kattis.com/problems/oddmanout)                | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/OddManOut/OddManOut.java)              |
+| [Seven Wonders](https://open.kattis.com/problems/sevenwonders)           | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/SevenWonders/SevenWonders.java)      |
+| [Spavanac](https://open.kattis.com/problems/spavanac)                    | 1.3        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.3/Spavanac/Spavanac.java)                   |
 | ---                                                                      | ---        | ---                                                                                                                   |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit)               | 1.4        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.4/SpeedLimit/SpeedLimit.java)               |
 | ---                                                                      | ---        | ---                                                                                                                   |
