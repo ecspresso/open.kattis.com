@@ -13,10 +13,12 @@ public class Zamka {
         int sumx;
         
         
-        while(true) {
-            if(sumFun(L) == X) break;
-            L++;
-        }
+        do {
+            sum = sumFun(L);
+            sumx = X - sum;
+            L += sumx;
+            
+        } while(sum != X);
         System.out.println(L);
         
         while(true) {
