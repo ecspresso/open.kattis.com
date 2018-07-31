@@ -1,6 +1,6 @@
 | Problem                                                                  | Difficulty | Language                                                                           |
 | ---                                                                      | ---        | ---                                                                                |
-| [Autori](https://open.kattis.com/problems/autori)                        | 1.2        | [![Java](https://open.kattis.com/favicon)](../master/Java/1.2/Autori.java)            |
+| [Autori](https://open.kattis.com/problems/autori)                        | 1.2        | [![Java](https://java.com/favicon.ico)](../master/Java/1.2/Autori.java)            |
 | [Batter Up](https://open.kattis.com/problems/batterup)                   | 1.2        | [![Java](https://java.com/favicon.ico)](../master/Java/1.2/BatterUp.java)          |
 | [Bijele](https://open.kattis.com/problems/bijele)                        | 1.2        | [![Java](https://java.com/favicon.ico)](../master/Java/1.2/Bijele.java)            |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)              | 1.2        | [![Java](https://java.com/favicon.ico)](../master/Java/1.2/ColdPuterScience.java)  |
