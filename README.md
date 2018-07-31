@@ -5,6 +5,7 @@
 | [Bijele](https://open.kattis.com/problems/bijele)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Bijele/Bijele.java)                       |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)              | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/ColdPuterScience/ColdPuterScience.java)   |
 | [Filip](https://open.kattis.com/problems/filip)                          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Filip/Filip.java)                         |
+| [FizzBuzz](https://open.kattis.com/problems/trik)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/FizzBuss/FizzBuss.java)                           |
 | [Hello World!](https://open.kattis.com/problems/hello)                   | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/HelloWorld/HelloWorld.java)               |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/HissingMicrophone/HissingMicrophone.java) |
 | [Oddities](https://open.kattis.com/problems/oddities)                    | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Oddities/Oddities.java)                   |
