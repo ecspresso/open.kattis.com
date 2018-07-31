@@ -14,7 +14,7 @@
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/QuadrantSelection/QuadrantSelection.java) |
 | [R2](https://open.kattis.com/problems/r2)                                | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/R2/R2.java)                               |
 | [Sibice](https://open.kattis.com/problems/sibice)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Sibice/Sibice.java)                       |
-| [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/SolvingforCarrots/SolvingForCarrots.java)          |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots)          | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/SolvingForCarrots/SolvingForCarrots.java)          |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/StuckInATimeLoop/StuckInATimeLoop.java)   |
 | [Take Two Stones](https://open.kattis.com/problems/twostones)            | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/TakeTwoStones/TakeTwoStones.java)         |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                        | 1.2        | [![Java](https://www.google.com/s2/favicons?domain=java.com)](../master/1.2/Tarifa/Tarifa.java)                       |
