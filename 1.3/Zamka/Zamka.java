@@ -9,8 +9,8 @@ public class Zamka {
         int L = Integer.parseInt(inputScanner.nextLine());
         int D = Integer.parseInt(inputScanner.nextLine());
         int X = Integer.parseInt(inputScanner.nextLine());
-        int sum;
-        int sumx;
+//        int sum;
+//        int sumx;
         
         
 //        do {
@@ -18,14 +18,12 @@ public class Zamka {
 //            sumx = X - sum;
 //            L += sumx;
 //        } while(sum != X);
-        while(true) {
-            if(sumFun(L) == X) break;
+        while(sumFun(L) != X) {
             L++;
         }
         System.out.println(L);
         
-        while(true) {
-            if(sumFun(D) == X) break;
+        while(sumFun(D) != X) {
             D--;
         }
         System.out.println(D);
