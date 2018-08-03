@@ -17,18 +17,18 @@ public class TheEasiestProblemIsThisOne {
             }
             
             while(true) {
+                sumP = 0;
+                
                 for(char c : Integer.toString(Integer.parseInt(input)*p).toCharArray()) {
                     sumP += Character.getNumericValue(c);
                 }
                 
                 if(sumN == sumP) {
                     System.out.println(p);
-                    sumN = 0;
-                    sumP = 0;
+                    sumN = 0;    
                     p = 11;
                     break;
                 } else {
-                    sumP = 0;
                     p++;
                 }
             }
